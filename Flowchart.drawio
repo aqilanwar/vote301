@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T17:46:31.977Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="nmzt4iqJ1xQQOxbrACAL" version="14.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-12-29T17:47:16.366Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2arf1_yndUXN5whqvFDr" version="14.1.3" type="github" pages="7">
   <diagram id="lc-HjPNuIND-x4zQ-w6r" name="Page-1">
     <mxGraphModel dx="1483" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5cppFHU-NY1uOYzubb2s" name="Page-3">
-    <mxGraphModel dx="716" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_YXboK0QQqIMsctFZSqQ-0" />
         <mxCell id="_YXboK0QQqIMsctFZSqQ-1" parent="_YXboK0QQqIMsctFZSqQ-0" />
@@ -174,7 +174,7 @@
         <mxCell id="34BvuHLJ023OVvYGo3dA-1" value="Retrieve voter details from database&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="_YXboK0QQqIMsctFZSqQ-1">
           <mxGeometry x="400" y="390" width="185" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="34BvuHLJ023OVvYGo3dA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="_YXboK0QQqIMsctFZSqQ-1" target="34BvuHLJ023OVvYGo3dA-3">
+        <mxCell id="34BvuHLJ023OVvYGo3dA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_YXboK0QQqIMsctFZSqQ-1" target="34BvuHLJ023OVvYGo3dA-3" source="34BvuHLJ023OVvYGo3dA-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="510" as="sourcePoint" />
           </mxGeometry>
@@ -183,16 +183,22 @@
           <mxGeometry x="670" y="470" width="73.74" height="80" as="geometry" />
         </mxCell>
         <mxCell id="34BvuHLJ023OVvYGo3dA-4" value="UPDATE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_YXboK0QQqIMsctFZSqQ-1">
-          <mxGeometry x="600" y="490" width="40" height="20" as="geometry" />
+          <mxGeometry x="590" y="635" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="34BvuHLJ023OVvYGo3dA-5" value="Input Voter_id" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="_YXboK0QQqIMsctFZSqQ-1">
-          <mxGeometry x="405" y="475" width="180" height="45" as="geometry" />
+          <mxGeometry x="402.56" y="590" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Vag9toFc10Ho8Tx0uwjl-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_YXboK0QQqIMsctFZSqQ-1" source="Vag9toFc10Ho8Tx0uwjl-0" target="n9vO-_khJjTPcMlpF9nk-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vag9toFc10Ho8Tx0uwjl-0" value="Display Add Admin Form" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="_YXboK0QQqIMsctFZSqQ-1">
           <mxGeometry x="405" y="130" width="174.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vag9toFc10Ho8Tx0uwjl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_YXboK0QQqIMsctFZSqQ-1" source="Vag9toFc10Ho8Tx0uwjl-3" target="34BvuHLJ023OVvYGo3dA-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vag9toFc10Ho8Tx0uwjl-3" value="Display Manage Voter Form" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" vertex="1" parent="_YXboK0QQqIMsctFZSqQ-1">
+          <mxGeometry x="405" y="480" width="174.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
