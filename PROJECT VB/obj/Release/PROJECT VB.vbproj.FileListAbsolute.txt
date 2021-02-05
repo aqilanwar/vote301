@@ -1,0 +1,41 @@
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\MySql.Data.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\MySql.Web.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\Google.Protobuf.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\Zstandard.Net.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\Renci.SshNet.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\System.Memory.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\System.Buffers.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\MySql.Data.xml
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\MySql.Web.xml
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT VB.vbprojAssemblyReference.cache
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT VB.exe.config
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.Resources.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT VB.vbproj.GenerateResource.cache
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT VB.vbproj.CoreCompileInputs.cache
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT VB.vbproj.CopyComplete
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT VB.exe
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT VB.xml
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT VB.pdb
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\PROJECT VB.exe.config
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\PROJECT VB.exe
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\PROJECT VB.pdb
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\bin\Release\PROJECT VB.xml
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.adminLoggedin.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.adminLogin.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.manageAdmin.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.manageCandidate.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.manageVoter.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.signupAdmin.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.moderatorLoggedIn.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.moderatorLogin.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.main.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.signUpCandidate.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.signUpVoter.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.voterLogin.resources
+C:\Users\xkky\source\repos\PROJECT VB\PROJECT VB\obj\Release\PROJECT_VB.voterLoggedin.resources
